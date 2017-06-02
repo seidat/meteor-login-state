@@ -1,8 +1,8 @@
 Package.describe({
-  "summary": "Share Meteor Login State Between Sub Domains",
+  "summary": "Share Meteor Login State Between Sub Domains - FORK",
   "version": "1.3.1",
-  "git": "https://github.com/kadirahq/meteor-login-state.git",
-  "name": "kadira:login-state"
+  "git": "https://github.com/seidat/meteor-login-state.git#seidat",
+  "name": "seidat:login-state"
 });
 
 Package.on_use(function(api) {
